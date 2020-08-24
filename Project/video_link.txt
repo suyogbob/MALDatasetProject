@@ -1,0 +1,7 @@
+Final project video link:
+
+https://youtu.be/3g9y5bsbgS4
+
+Final project Colab notebook link:
+
+https://colab.research.google.com/drive/19WuCATgDtE0FgGSoviVb2iUWw87sjvk_
